@@ -11,7 +11,7 @@
    :PROPERTIES:
    :ID:       dc80d464-2fe5-4e3b-b8f6-b24ccf0c2f5e
    :END:
-** 17 février : Libre
+** 17 février : metaverse sur le Web (Mozilla Hubs, Networked AFrame, ImmerSpace)
    SCHEDULED: <2023-02-17 ven. 11:00-12:30>
    :PROPERTIES:
    :ID:       4d5b15ef-2bb7-41a9-8fef-462f1aec7046
